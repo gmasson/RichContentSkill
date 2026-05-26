@@ -4,7 +4,7 @@ A language-agnostic writing skill that enforces quality standards across 15+ con
 
 Drop it into any conversation and every piece of written content follows consistent, opinionated rules designed to eliminate filler, dead openings, vague claims, and generic AI tone.
 
-> English | (Português)[README.br.md] 
+> English | [Português](README.br.md)
 
 ## What It Does
 
