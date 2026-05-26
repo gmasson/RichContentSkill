@@ -4,7 +4,7 @@ Uma habilidade de escrita agnóstica em relação à linguagem que aplica padrõ
 
 Jogue em qualquer conversa e todo conteúdo escrito segue regras consistentes e opinadas, projetadas para eliminar enchimento, aberturas fracas, alegações vagas e tom genérico de IA.
 
-> (English)[README.md] | Português
+> [English](README.md) | Português
 
 ## O Que Faz
 
